@@ -1,3 +1,11 @@
 #React contact info
 Email:- ste.grider@gmail.com
 Github:- github.com/stephengrider
+React.js and Redux.js are libraries written in ES6.
+We can not run it in browser since no browsers have clear support to it.
+
+IT's a slightly different JS.
+
+The tool we are going to use is webpack and babel.
+
+Different component.js files are added to a application.js files.
